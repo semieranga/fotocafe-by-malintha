@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+  <div class="container">
+    <form id="signupForm">
+      <h2>Sign Up</h2>
+      <input type="text" placeholder="Username" id="username" required>
+      <input type="email" placeholder="Email" id="email" required>
+      <input type="tel" placeholder="Phone No" id="phone" required>
+      <input type="password" placeholder="Password" id="password" required>
+      <input type="password" placeholder="Re-enter Password" id="confirmPassword" required>
+      <button type="submit"><a href="Adminlogin.html">Sign Up</a></button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

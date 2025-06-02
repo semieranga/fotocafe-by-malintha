@@ -1,0 +1,64 @@
+ body {
+      background-color: #dbeeff;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .booking-form {
+      background-color: rgb(238, 178, 240); /* Placeholder, updated below */
+      background-color: rgb(238, 178, 240); /* Light purple actual hex */
+      padding: 20px;
+      border-radius: 10px;
+      width: 400px;
+      margin: 0 auto;
+    }
+
+    .booking-form h2 {
+      text-align: center;
+    }
+
+    .booking-form label {
+      display: block;
+      margin-top: 10px;
+    }
+
+    .booking-form input {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      box-sizing: border-box;
+    }
+
+    .send-button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px;
+      width: 100%;
+      border: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+
+    .send-button:hover {
+      background-color: #007bff;
+    }
+
+    #message {
+      margin-top: 15px;
+      text-align: center;
+      color: darkblue;
+      font-weight: bold;
+    }
+    a{
+      text-decoration: none;
+      color: rgb(247, 241, 241);
+    }
+    /* .info-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #fef3c7; 
+  border-left: 5px solid #f59e0b; 
+  font-size: 14px;
+  border-radius: 8px;
+} */
